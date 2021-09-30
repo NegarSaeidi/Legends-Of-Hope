@@ -1,0 +1,45 @@
+Release 1.0
+
+features implemented in this version:
+**Scenes:
+- Main Menu
+-Tutorial scene
+-Game scene
+-Game over scene
+
+**Movement, physics:
+-Character movement
+-AI character movement
+
+**Camera:
+- Follow camera
+- Eyes camera
+
+**AI:
+-AI patroling
+-AI detection
+-AI response (Follow, attack)
+
+**Animation:
+-Character animation (idle, walk, die)
+-AI character animation ( walk, run)
+-Prisoner animation (Sitting idle, standig up, standing idle)
+-Guid guy (Wave animation)
+
+**Sounds:
+-Menu background sound                   (static)
+-TUtorial background sound               (static)
+-Game over background sound              (static)
+-Game scene background sound             (static)
+-Player's footsteps                      (dynamic)
+
+
+Features to be expected in the next release:
+- Opening the prisons' doors
+- replacing the camera with cinemachine
+-MAYBE : adding a pickup function
+-MAYBE: Distraction for guards
+-MAYBE: Timer
+
+
+
